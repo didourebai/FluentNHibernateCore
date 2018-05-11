@@ -10,3 +10,6 @@ When Microsoft started working on the framework Core, much functionality in NHib
 NHibernate even Fluent NHibernate. 
 
 In this project , I will show the use of Fluent NHibernate in the framework Core 2.0
+
+In this sample, we use the same entities when we worked with Entity Framework to display the difference between them.
+Person Entity and Task Entity.
