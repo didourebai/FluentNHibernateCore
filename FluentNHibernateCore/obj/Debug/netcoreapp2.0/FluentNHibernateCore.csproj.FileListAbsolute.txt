@@ -1,0 +1,11 @@
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\bin\Debug\netcoreapp2.0\FluentNHibernateCore.deps.json
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\bin\Debug\netcoreapp2.0\FluentNHibernateCore.runtimeconfig.json
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\bin\Debug\netcoreapp2.0\FluentNHibernateCore.runtimeconfig.dev.json
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\bin\Debug\netcoreapp2.0\FluentNHibernateCore.dll
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\bin\Debug\netcoreapp2.0\FluentNHibernateCore.pdb
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.csproj.CoreCompileInputs.cache
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.AssemblyInfoInputs.cache
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.AssemblyInfo.cs
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.dll
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.pdb
+C:\Users\Rayen\Documents\FluentNHibernateCore\FluentNHibernateCore\obj\Debug\netcoreapp2.0\FluentNHibernateCore.csprojResolveAssemblyReference.cache
